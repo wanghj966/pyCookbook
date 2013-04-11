@@ -1,3 +1,10 @@
 eclipse.preferences.version=1
 encoding//src/Chapter1/__init__.py=utf-8
+<<<<<<< HEAD
 encoding//src/chapter2/__init__.py=utf-8
+=======
+encoding//src/Chapter1/multi_replace.py=utf-8
+encoding//src/Chapter1/reindent.py=utf-8
+encoding//src/Chapter1/stringTemplate.py=utf-8
+encoding//src/Chapter1/structSubstr.py=utf-8
+>>>>>>> f2902ae36197eb5e1bf8fdbddd526ac74c9888b7
